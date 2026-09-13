@@ -23,3 +23,4 @@
 
 // do stuff like likeCount += 1 rather than LikeCount + 1 because it is more efficient and easier to read. You can also use the Date type to represent a specific point in time.
 // Swift uses PEMDAS for order of operations, so you can use parentheses to group operations and control the order in which they are performed. You can also use the Date type to represent a specific point in time.
+// functions call eachother per file

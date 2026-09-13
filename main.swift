@@ -1,12 +1,11 @@
 import Foundation
 
-let greeting = "Hello, World!"
+var userIsPremium = true
+
+if userIsPremium == true {
+    print("User is premium")
+} else {
+    print("user is not premium")
+}
 
 
-let myTitle = greeting
-
-let mySecondItem = true 
-
-//Date 
-let myDate = Date()
-print(myDate)
